@@ -6,3 +6,13 @@ header{
   display: flex;
   align-items: center;
 }
+
+.icons{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.fs-nav{
+  justify-content: center;
+}
