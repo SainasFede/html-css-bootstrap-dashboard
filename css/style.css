@@ -72,7 +72,6 @@ main{
 
 .plus{
   padding: 5px;
-
 }
 
 .sub-tl{
@@ -98,6 +97,10 @@ main{
 
 .table tbody tr td{
   text-align: center;
+}
+
+.table-group-divider{
+  border-top: 0.5px solid lightgray;
 }
 
 .b-tb{
